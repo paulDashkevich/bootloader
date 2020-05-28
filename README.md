@@ -32,10 +32,10 @@ vgrename centos CentOS
 # Volume group "centos" successfully renamed to "CentOS"
 ```
 3.3 Пропишем новое название VG в следующих файлах: 
-***[root@centos paul]# vi /etc/fstab***
-***[root@centos paul]# vi /etc/fstab***
-***[root@centos paul]# vi /etc/default/grub***
-***[root@centos paul]# vi /boot/grub2/grub.cfg***
+- ***[root@centos paul]# vi /etc/fstab***
+- ***[root@centos paul]# vi /etc/fstab***
+- ***[root@centos paul]# vi /etc/default/grub***
+- ***[root@centos paul]# vi /boot/grub2/grub.cfg***
 3.4 Перепишем загрузчик:
 ```sh
 
