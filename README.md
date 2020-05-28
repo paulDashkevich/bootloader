@@ -91,4 +91,4 @@ lsinitrd -m /boot/initramfs-$(uname -r).img | grep test
 ***test***
 
 4.4. После перезагрузки проверяем результат
-
+![alt text](initrd.jpg)
